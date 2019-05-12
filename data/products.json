@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "title": "Baseball bat",
+    "description": "Knock it out of the park!",
+    "price": 500,
+    "imageUrl": "https://loremflickr.com/320/240?lock=1"
+  },
+  {
+    "id": "2",
+    "title": "Football",
+    "description": "Best football on the market right now",
+    "price": 3900,
+    "imageUrl": "https://loremflickr.com/320/240?lock=2"
+  },
+  {
+    "id": "3",
+    "title": "Running shoes",
+    "description": "Run Forest, run!",
+    "price": 6700,
+    "imageUrl": "https://loremflickr.com/320/240?lock=3"
+  },
+  {
+    "id": "4",
+    "title": "Fishing rod",
+    "description": "For relaxing summer days",
+    "price": 12000,
+    "imageUrl": "https://loremflickr.com/320/240?lock=4"
+  }
+]
